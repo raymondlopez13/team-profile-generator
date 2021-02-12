@@ -1,4 +1,5 @@
 # team-profile-generator
+![Photo of Webpage](https://github.com/raymondlopez13/team-profile-generator/blob/main/src/team-photo.png)
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
